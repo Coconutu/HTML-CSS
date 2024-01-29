@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat';
+    background-color:hsla(0, 0%, 92%, 0.899);
+}
+
+.titlu{
+    color: #010307;
+    text-align: center;
+    font-size: 26px;
+    background: -webkit-linear-gradient(45deg, rgb(39, 105, 211), #3aff09);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+}
+.subtitlu{
+    color: #2a97ca;
+    text-align: center;
+    
+}
+.tehnologii{
+    color: rgb(55, 53, 201);
+    text-align: center;
+    
+
+}
+.left-side{
+    float: left;
+}
+.right-side{
+   float: left;
+    padding-top: 1px;
+ 
+}
+.container-others{
+   text-align: center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: fit-content;
+}
+
+.container-principal{
+    display:flex;
+    flex-direction: column;
+    width: 1200px;
+    margin: 40px auto;
+    background-color:#FFF;
+    align-items: center;
+}
+.linkuri{
+    font-size: 20px;
+    font-style: italic;
+    background-color: aquamarine;
+  
+      
+}
